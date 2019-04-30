@@ -1,0 +1,14 @@
+E:\Pelatihan\Test\Erudeye\Calculator\Calculator\bin\Debug\netcoreapp2.2\Calculator.deps.json
+E:\Pelatihan\Test\Erudeye\Calculator\Calculator\bin\Debug\netcoreapp2.2\Calculator.runtimeconfig.json
+E:\Pelatihan\Test\Erudeye\Calculator\Calculator\bin\Debug\netcoreapp2.2\Calculator.runtimeconfig.dev.json
+E:\Pelatihan\Test\Erudeye\Calculator\Calculator\bin\Debug\netcoreapp2.2\Calculator.dll
+E:\Pelatihan\Test\Erudeye\Calculator\Calculator\bin\Debug\netcoreapp2.2\Calculator.pdb
+E:\Pelatihan\Test\Erudeye\Calculator\Calculator\obj\Debug\netcoreapp2.2\Calculator.csproj.CoreCompileInputs.cache
+E:\Pelatihan\Test\Erudeye\Calculator\Calculator\obj\Debug\netcoreapp2.2\Calculator.RazorAssemblyInfo.cache
+E:\Pelatihan\Test\Erudeye\Calculator\Calculator\obj\Debug\netcoreapp2.2\Calculator.RazorAssemblyInfo.cs
+E:\Pelatihan\Test\Erudeye\Calculator\Calculator\obj\Debug\netcoreapp2.2\Calculator.AssemblyInfoInputs.cache
+E:\Pelatihan\Test\Erudeye\Calculator\Calculator\obj\Debug\netcoreapp2.2\Calculator.AssemblyInfo.cs
+E:\Pelatihan\Test\Erudeye\Calculator\Calculator\obj\Debug\netcoreapp2.2\Calculator.RazorTargetAssemblyInfo.cache
+E:\Pelatihan\Test\Erudeye\Calculator\Calculator\obj\Debug\netcoreapp2.2\Calculator.dll
+E:\Pelatihan\Test\Erudeye\Calculator\Calculator\obj\Debug\netcoreapp2.2\Calculator.pdb
+E:\Pelatihan\Test\Erudeye\Calculator\Calculator\obj\Debug\netcoreapp2.2\Calculator.csprojAssemblyReference.cache
